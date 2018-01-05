@@ -1,0 +1,54 @@
+{
+  "pages":[
+    "pages/home/homeList",
+    "pages/shop/shopList",
+    "pages/cart/cartList",
+    "pages/mine/mineList",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/home",
+    "pages/cart/cart",
+    "pages/mine/mine"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f0145a",
+    "navigationBarTitleText": "花语奶茶",
+    "navigationBarTextStyle":"write",
+    "enablePullDownRefresh":"false",
+    "backgroundColor": "#f0145a"
+    
+  },
+  "tabBar": {
+    "color": "#858585",
+    "selectedColor": "#f0145a",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "#000",
+    "list": [
+      {
+        "pagePath": "pages/home/homeList",
+        "iconPath": "images/bottomNav/home.png",
+        "selectedIconPath": "images/bottomNav/home_select.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/shop/shopList",
+        "iconPath": "images/bottomNav/classify.png",
+        "selectedIconPath": "images/bottomNav/classify_select.png",
+        "text": "商家"
+      },
+      {
+        "pagePath": "pages/cart/cartList",
+        "iconPath": "images/bottomNav/cart.png",
+        "selectedIconPath": "images/bottomNav/cart_select.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/mine/mineList",
+        "iconPath": "images/bottomNav/mine.png",
+        "selectedIconPath": "images/bottomNav/mine_select.png",
+        "text": "我的"
+      }
+    ]
+  }
+}
