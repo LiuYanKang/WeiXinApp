@@ -61,53 +61,7 @@ Page({
 
     // 新品上架
     goodsItems: [
-      {
-        goodId: 0,
-        name: '兰蔻小黑瓶',
-        url: 'bill',
-        imageurl: 'http://mz.djmall.xmisp.cn/files/product/20161201/148057921620.jpg',
-        newprice: "￥200.00",
-        oldprice: "￥300.00",
-      },
-      {
-        goodId: 1,
-        name: '兰蔻清莹柔肤爽肤水',
-        url: 'bill',
-        imageurl: 'http://mz.djmall.xmisp.cn/files/product/20161201/148057953326.jpg',
-        newprice: "￥120.00",
-        oldprice: "￥200.00",
-      },
-      {
-        goodId: 2,
-        name: '倩碧水嫩保湿精华面霜',
-        url: 'bill',
-        imageurl: 'http://mz.djmall.xmisp.cn/files/product/20161201/148058228431.jpg',
-        newprice: "￥320.00",
-        oldprice: "￥400.00",
-      },
-      {
-        goodId: 3,
-        name: '特效润肤露',
-        url: 'bill',
-        imageurl: 'http://mz.djmall.xmisp.cn/files/product/20161201/14805828016.jpg',
-        newprice: "￥30.00",
-        oldprice: "￥80.00",
-      },
-      {
-        goodId: 4,
-        name: '倩碧焕妍活力精华露',
-        url: 'bill',
-        imageurl: 'http://mz.djmall.xmisp.cn/files/product/20161201/148058301941.jpg',
-        newprice: "￥30.00",
-        oldprice: "￥80.00",
-      }, {
-        goodId: 5,
-        name: '日本资生堂洗颜',
-        url: 'bill',
-        imageurl: 'http://mz.djmall.xmisp.cn/files/product/20161201/148058328876.jpg',
-        newprice: "￥30.00",
-        oldprice: "￥80.00",
-      }
+      
     ],
 
     newgoods_head_url: "http://mz.djmall.xmisp.cn/files/banner/20161202/148066062976.jpg",

@@ -35,13 +35,13 @@
         "pagePath": "pages/shop/shopList",
         "iconPath": "images/bottomNav/classify.png",
         "selectedIconPath": "images/bottomNav/classify_select.png",
-        "text": "商家"
+        "text": "分类"
       },
       {
         "pagePath": "pages/cart/cartList",
         "iconPath": "images/bottomNav/cart.png",
         "selectedIconPath": "images/bottomNav/cart_select.png",
-        "text": "购物车"
+        "text": "作品"
       },
       {
         "pagePath": "pages/mine/mineList",
